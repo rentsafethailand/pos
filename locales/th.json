@@ -1,0 +1,49 @@
+{
+  "common": {
+    "login": "เข้าสู่ระบบ",
+    "register": "สมัครสมาชิก",
+    "logout": "ออกจากระบบ",
+    "search": "ค้นหา",
+    "submit": "ส่ง",
+    "cancel": "ยกเลิก",
+    "save": "บันทึก",
+    "edit": "แก้ไข",
+    "delete": "ลบ",
+    "view": "ดู",
+    "loading": "กำลังโหลด...",
+    "yes": "ใช่",
+    "no": "ไม่"
+  },
+  "nav": {
+    "home": "หน้าแรก",
+    "vehicles": "รถเช่า",
+    "attractions": "สถานที่ท่องเที่ยว",
+    "events": "กิจกรรม",
+    "about": "เกี่ยวกับเรา",
+    "contact": "ติดต่อเรา"
+  },
+  "hero": {
+    "title": "เช่ารถ จองทัวร์",
+    "subtitle": "ง่ายๆ ไว้ใจได้",
+    "description": "แพลตฟอร์มจองรถเช่าและทัวร์ท่องเที่ยว รองรับทั้งขับเองและพร้อมคนขับ"
+  },
+  "search": {
+    "pickup_date": "วันที่รับรถ",
+    "return_date": "วันที่คืนรถ",
+    "rental_type": "ประเภทการเช่า",
+    "self_drive": "ขับเอง",
+    "with_driver": "พร้อมคนขับ"
+  },
+  "booking": {
+    "status": {
+      "PENDING_ASSIGNMENT": "รอมอบหมายงาน",
+      "PENDING_PARTNER_CONFIRMATION": "รอ Partner ยืนยัน",
+      "CONFIRMED": "ยืนยันแล้ว",
+      "IN_PROGRESS": "กำลังดำเนินการ",
+      "PICKED_UP": "รับรถแล้ว",
+      "RETURNED": "คืนรถแล้ว",
+      "COMPLETED": "เสร็จสิ้น",
+      "CANCELLED": "ยกเลิก"
+    }
+  }
+}

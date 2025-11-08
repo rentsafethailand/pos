@@ -1,0 +1,49 @@
+{
+  "common": {
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "search": "Search",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "view": "View",
+    "loading": "Loading...",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "nav": {
+    "home": "Home",
+    "vehicles": "Vehicles",
+    "attractions": "Attractions",
+    "events": "Events",
+    "about": "About Us",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Rent a Car, Book a Tour",
+    "subtitle": "Easy and Reliable",
+    "description": "Car rental and tour booking platform. Both self-drive and with driver options available"
+  },
+  "search": {
+    "pickup_date": "Pickup Date",
+    "return_date": "Return Date",
+    "rental_type": "Rental Type",
+    "self_drive": "Self Drive",
+    "with_driver": "With Driver"
+  },
+  "booking": {
+    "status": {
+      "PENDING_ASSIGNMENT": "Pending Assignment",
+      "PENDING_PARTNER_CONFIRMATION": "Pending Partner Confirmation",
+      "CONFIRMED": "Confirmed",
+      "IN_PROGRESS": "In Progress",
+      "PICKED_UP": "Picked Up",
+      "RETURNED": "Returned",
+      "COMPLETED": "Completed",
+      "CANCELLED": "Cancelled"
+    }
+  }
+}
